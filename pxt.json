@@ -1,0 +1,20 @@
+{
+    "name": "powerbrick-mj",
+    "version": "0.2.4",
+    "description": "米家盒子Powerbrick series module for microbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "main.cpp",
+        "_locales/zh-cn/powerbrick-strings.json",
+        "_locales/zh-tw/powerbrick-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
